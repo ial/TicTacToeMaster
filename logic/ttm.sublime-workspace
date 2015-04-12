@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ti",
+				"TIcTacMemoryBoard"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"inc",
+				"includedirs"
+			],
+			[
+				"a",
+				"addqueen"
+			],
+			[
+				"i",
+				"isplaceok"
+			],
+			[
+				"for",
+				"fori	for i,v in ipairs()"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"c",
+				"coroutine"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"co",
+				"co"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"pre",
+				"prefixReturned"
+			],
+			[
+				"fu",
+				"function	function"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"lo",
+				"loadwithprefix"
+			],
+			[
+				"prefix",
+				"prefixAdded"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/tests",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/third_party",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/third_party/gtest",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/third_party/gtest/src"
+	],
+	"file_history":
+	[
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/third_party/gtest/premake5.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/premake5.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic/premake5.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/tests/premake5.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/tests/main_test.cpp",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic/TicTacAIUsingBacktracking.h",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic/TIcTacMemoryBoard.h",
+		"/Users/igor/dev/imager_trunk/file/filesys/extfs/extfs_iter.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/getpwent.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/getppid.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/getgrnam.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/getgrgid.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/getgrent.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_lat_sig_send.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_lat_sig_prot.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_lat_sig_install.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/libkern/c++/OSCollectionIterator.h",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test2/test2.xcodeproj/project.pbxproj",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test1/test1.xcodeproj/project.pbxproj",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/superpages/testsp.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_lat_ctx.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/benchmark_initbatch.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/benchmark_finibatch.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/create_file.c",
+		"/Users/igor/dev/xnu-1699.32.7/osfmk/console/panic_ui/systemCLUT.act",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/affinity/sets.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/OSCollectionIterator.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/pthread_create.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test2/Info.plist",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test1/Info.plist",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/helpers/data_exec.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/realpath.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/libkern/OSKextLibPrivate.h",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/create_stuff.sh",
+		"/Users/igor/dev/xnu-1699.32.7/iokit/Kernel/IOStartIOKit.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/vm_allocate.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/helpers/arch.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/libkern/c++/OSIterator.h",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/od_account_delete.sh",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/od_account_create.sh",
+		"/Users/igor/dev/xnu-1699.32.7/libsa/conf/Makefile.template",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/OSIterator.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/commpage_tests.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/lockstat/Makefile",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/man/man2/flistxattr.2",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/superpages/measure_tlbs.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/xattr_tests.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/machvm_tests.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/custom/__sigaltstack.s",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/shared_memory_tests.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/mk_tarball",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/mach/ms_thread_switch.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/gen/OSAtomicOperations.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/sema_tests.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/libkern/version.h.template",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_lat_sig_catch.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/wrappers/legacy/getattrlist.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_select_tcp.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/trivial.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test2/test2_main.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/c++/Tests/TestSerialization/test1/test1_main.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/affinity/tags.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/mach/mach/thread_act.h",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/atomic.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/mach/thread_act.defs",
+		"/Users/igor/dev/xnu-1699.32.7/iokit/Kernel/IOStatistics.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/xnu_quick_test/atomic_fifo_queue_test.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/kxld/tests/kxld_array_test.c",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/man/man2/listxattr.2",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/tattle.c",
+		"/Users/igor/dev/xnu-1699.32.7/osfmk/man/lock_set_create.html",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/isatty.c",
+		"/Users/igor/dev/xnu-1699.32.7/iokit/Kernel/IOPMPowerStateQueue.h",
+		"/Users/igor/dev/xnu-1699.32.7/iokit/Kernel/IOPMPowerStateQueue.cpp",
+		"/Users/igor/dev/xnu-1699.32.7/osfmk/man/clock_set_attributes.html",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/kmod/cplus_start.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/kmod/c_start.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/wrappers/legacy/setattrlist.c",
+		"/Users/igor/dev/xnu-1699.32.7/libkern/stack_protector.c",
+		"/Users/igor/dev/xnu-1699.32.7/osfmk/man/lock_make_stable.html",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_fstat.c",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/dev/dtrace/lockstat.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/lockstat/lockstat.c",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/sys/lockstat.h",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/mach/exc_catcher_state_identity.c",
+		"/Users/igor/dev/xnu-1699.32.7/libsyscall/mach/exc_catcher_state.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/stat.c",
+		"/Users/igor/dev/xnu-1699.32.7/tools/tests/libMicro/apple/lmbench_stat.c",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/man/man2/lstat64.2",
+		"/Users/igor/dev/xnu-1699.32.7/bsd/man/man2/lstat.2",
+		"/Users/igor/dev/xnu-1699.32.7/config/list_supported.sh",
+		"/Users/igor/dev/xnu-1699.32.7/libsa/lastkernelconstructor.c",
+		"/Users/igor/dev/xnu-1699.32.7/osfmk/mach/std_types.defs",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic/premake4.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/premake4.lua",
+		"/Users/igor/Dropbox/HomeExt/TicTacMaster/logic/собеседования.txt",
+		"/Users/igor/Dropbox/psw.txt",
+		"/Users/igor/dev/codeblock_trunk/BUILD",
+		"/Users/igor/Dropbox/commit.bat",
+		"/Users/igor/dev/codeblock_trunk/README",
+		"/Users/igor/Dropbox/lua/pcall",
+		"/Users/igor/dev/imager_trunk/make/tools/doxygen/custom_configs/disk_manager_daapi1_internal.dox",
+		"/Users/igor/dev/imager_trunk/fdisk/disk_maci.cpp",
+		"/Users/igor/dev/imager_trunk/macex/disk.cpp",
+		"/Users/igor/dev/imager_trunk/include/boost/fusion/container/deque/detail/deque_initial_size.hpp",
+		"/Users/igor/dev/imager_trunk/file/dir_iterator.cpp",
+		"/Users/igor/dev/imager_trunk/processor/impl/processor/diskadm/da_native_batch_impl.h",
+		"/Users/igor/dev/imager_trunk/fdisk/test/portion_operations/portion_break_mirror.cpp",
+		"/Users/igor/dev/imager_trunk/products/imager/home/console/dialogs/backup_options/backup_options_scheme_animation_controller.cpp",
+		"/Users/igor/dev/imager_trunk/processor/diskadm/da_native_batch.cpp",
+		"/Users/igor/dev/imager_trunk/fdisk/disk_pln.cpp",
+		"/Users/igor/dev/imager_trunk/libmspack/depcomp",
+		"/Users/igor/dev/imager_trunk/pull_archive2.bat",
+		"/Users/igor/dev/imager_trunk/processor/gc/gc_event.h",
+		"/Users/igor/dev/imager_trunk/third-party/gtest/test/gtest_environment_test.cc",
+		"/Users/igor/dev/imager_trunk/text/imager.txt/home.txt/builder.txt/czech.txt",
+		"/Users/igor/dev/imager_trunk/text/imager.txt/home.txt/builder.txt/chineset.txt",
+		"/Users/igor/dev/imager_trunk/text/imager.txt/home.txt/builder.txt/chineses.txt",
+		"/Users/igor/dev/imager_trunk/grub_parser/uefi_bootvars/uefi_types_include.h",
+		"/Users/igor/dev/imager_trunk/text/grub_parser.txt/uefi_bootvars.txt/italian.txt",
+		"/Users/igor/dev/imager_trunk/products/imager/home/console/utils/win_executable_utils.h",
+		"/Users/igor/dev/imager_trunk/products/imager/home/console/utils/win_executable_utils.cpp",
+		"/Users/igor/dev/imager_trunk/grub_parser/uefi_bootvars/boot_enum_linux.cpp",
+		"/Users/igor/dev/imager_trunk/fdisk/test/unit_tests/gentoo2x6x18/001_Preparation_steps/001_test_shell_launch_possibility.sh",
+		"/Users/igor/dev/imager_trunk/fdisk/test/unit_tests/gentoo2x6x18/001_Preparation_steps/001_test_fdisk_launch_possibility.lua",
+		"/Users/igor/dev/imager_trunk/products/imager/home/mac/console/terminal/view_backup_list_terminal.hpp",
+		"/Users/igor/dev/imager_trunk/products/imager/home/managers/test/file_backup_test/task_manager_utils.h",
+		"/Users/igor/dev/imager_trunk/products/imager/tishell/AszBrowseHelper/asz_shell_utils.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			": ",
+			"objdir_root_val",
+			"lstat",
+			"getmntinfo",
+			"lstat",
+			"getmntinfo",
+			"stat2",
+			"stat",
+			"getmntinfo",
+			"initconfigurations",
+			"config",
+			"repeat",
+			"ERROR_CANNOT_FIND_CHECKPOINT",
+			"ERROR",
+			"ERROR_IMAGE_TASK_OBJECT_LOAD_TASK",
+			"LoadSc",
+			"StridSources",
+			"LoadScript(",
+			"LoadSc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ttm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"stat",
+				"bsd/sys/stat.h"
+			],
+			[
+				"pc",
+				"pcall.lua"
+			],
+			[
+				"diskmanaimpl",
+				"products/imager/home/managers/impl/disk_backup/manager_impl.cpp"
+			],
+			[
+				"",
+				"activator/f_handle.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"DoStat",
+				"DoStat"
+			],
+			[
+				"lstat",
+				"lstat"
+			],
+			[
+				"getmntin",
+				"getmntinfo"
+			],
+			[
+				"getmntinfo",
+				"getmntinfo64"
+			],
+			[
+				"getmnt",
+				"getmntinfo"
+			],
+			[
+				"access",
+				"access"
+			]
+		],
+		"width": 671.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
